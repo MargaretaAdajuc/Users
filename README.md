@@ -23,7 +23,7 @@ You can get a list of all the users in JSON format.
     }
 ```
 `GET` api/Users/{id} <br>
-You can get a list of all the users by id in JSON format, in this case, if id = 2.
+You can get a list of all the users by id in JSON format.
 
 `PUT` api/Users/{id} <br>
 You can update a user by id by inserting the necessary update(s) in the body of the request, in JSON format.
